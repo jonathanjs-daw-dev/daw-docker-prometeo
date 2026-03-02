@@ -9,3 +9,5 @@ BEGIN
     SET MESSAGE_TEXT = "El email no puede estar vacio";
   END IF;
 END$$
+
+DELIMITER;
